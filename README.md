@@ -20,3 +20,8 @@ To scaffold with specific template:
 ```bash
 yarn create rct-app my-react-project --template react
 ```
+
+## Todos
+
+Currently working on:
+- Next.js template 
