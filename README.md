@@ -1,4 +1,4 @@
-# create-aella-app
+# create-rct-app
 
 Create a react-powered app with unique setup, comes with React-Query, Chakra-UI and Authentication flow all setup.
 
