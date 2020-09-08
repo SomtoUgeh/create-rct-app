@@ -1,7 +1,6 @@
 # create-aella-app
 
-Create a react-powered app with unique setup
-This comes with React-Query, Chakra-UI and Authentication flow all setup
+Create a react-powered app with unique setup, comes with React-Query, Chakra-UI and Authentication flow all setup.
 
 ```bash
 yarn create rct-app <project-name>

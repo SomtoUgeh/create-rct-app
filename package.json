@@ -2,7 +2,7 @@
   "name": "create-rct-app",
   "version": "0.1.0",
   "main": "index.js",
-  "description": "Create react-powered app in seconds",
+  "description": "Create react application (CRA, Next, TS) from your terminal with different setup options",
   "repository": "https://github.com/SomtoUgeh/create-rct-app.git",
   "author": "Somto M.Ugeh <smugeh@gmail.com>",
   "license": "ISC",
