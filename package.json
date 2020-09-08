@@ -1,6 +1,6 @@
 {
   "name": "create-rct-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "description": "Create react application (CRA, Next, TS) from your terminal with different setup options",
   "repository": "https://github.com/SomtoUgeh/create-rct-app.git",
